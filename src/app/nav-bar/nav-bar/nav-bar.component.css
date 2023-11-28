@@ -1,0 +1,5 @@
+.dropdown-menu {
+  transform: translateX(-79px);
+}
+
+@import "~bootstrap/dist/css/bootstrap.min.css";

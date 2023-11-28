@@ -1,0 +1,23 @@
+.card {
+  min-height: 600px;
+  /* min-height: 600px; this much height is used in video */
+}
+
+.card img {
+  padding: 10px;
+  height: 250px;
+}
+
+.card-img-wrapper {
+  height: 250px;
+}
+
+.ngx-gallery {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  color: #0069d9;
+}
+

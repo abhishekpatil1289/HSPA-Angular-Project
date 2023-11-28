@@ -1,0 +1,17 @@
+.photo-control {
+  min-height: 300px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px dashed blue;
+  margin: 5px;
+}
+
+/* Add these styles to your CSS or SCSS file */
+
+.first-btn {
+  border-radius: 25px 0 0 25px; /* Adjust the border radius as needed */
+}
+
+.last-btn {
+  border-radius: 0 25px 25px 0; /* Adjust the border radius as needed */
+}
