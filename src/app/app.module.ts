@@ -28,9 +28,10 @@ import { FilterPipe } from './Pipes/filter.pipe';
 import { SortPipe } from './Pipes/sort.pipe';
 
 
+
 @NgModule({
   declarations: [
-    AppComponent, 
+    AppComponent,
     AddPropertyComponent,
     NavBarComponent,
     PropertyListComponent,

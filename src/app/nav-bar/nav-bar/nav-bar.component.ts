@@ -23,4 +23,11 @@ export class NavBarComponent {
     this.alertify.success("You are logged out !")
   }
 
+  // isMenuOpen = false;
+
+  // toggleMenu(): void {
+  //   this.isMenuOpen = !this.isMenuOpen;
+  //   const menu = document.querySelector('.menu');
+  //   menu?.classList.toggle('active', this.isMenuOpen);
+  // }
 }
